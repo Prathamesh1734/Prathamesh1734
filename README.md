@@ -5,7 +5,6 @@ I'm a passionate **Full Stack Developer** focusing on crafting clean, user-frien
 ## 🚀 About Me
 * 💻 I’m actively developing and managing a variety of full-stack applications.
 * ⚛️ My core professional interest lies in **React.js** on the frontend and scalable backend solutions using **Node.js** and the broader JavaScript ecosystem.
-* 🌟 I actively contribute to open-source projects, with recent pull requests merged in repositories like `Eventra` and `react-bits`.
 * 🌐 Check out my [Portfolio Website](https://prathamesh1734.github.io/portfolio/) to see more of my work.
 
 ## 🛠️ Tech Stack
